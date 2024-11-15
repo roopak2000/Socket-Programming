@@ -1,0 +1,4 @@
+/home/team/roopak/project_root/build/CMakeFiles/rebuild_cache.dir
+/home/team/roopak/project_root/build/CMakeFiles/edit_cache.dir
+/home/team/roopak/project_root/build/CMakeFiles/client.dir
+/home/team/roopak/project_root/build/CMakeFiles/server.dir
