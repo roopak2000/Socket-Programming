@@ -1,4 +1,0 @@
-/home/roopak/Downloads/project/Socket-Programming/stream_with_udp/build/CMakeFiles/server.dir
-/home/roopak/Downloads/project/Socket-Programming/stream_with_udp/build/CMakeFiles/client.dir
-/home/roopak/Downloads/project/Socket-Programming/stream_with_udp/build/CMakeFiles/edit_cache.dir
-/home/roopak/Downloads/project/Socket-Programming/stream_with_udp/build/CMakeFiles/rebuild_cache.dir
